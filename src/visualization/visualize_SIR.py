@@ -35,7 +35,7 @@ app.layout=html.Div([
                      value='Germany',
                      multi=False),
     #For changing beta ,gamma, t_initial, t_intro_measures,t_hold,t_relax
-    dcc.Markdown(''' ## Change the values below to manipulate the SIR curve:'''),
+    dcc.Markdown(''' ## Change the values below to manipulate the SIR curve(And press enter):'''),
     html.Label(["No measures introduced(days):",
               dcc.Input(id='t_initial',
              type='number',
