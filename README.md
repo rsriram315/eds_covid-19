@@ -2,7 +2,7 @@
 EDS_COVID-19
 ==============================
 
-Applied Data science on COVID-19 Data
+Applied Data science on COVID-19 Data[DataSource: John Hopkins csse Github]
 
 # Preview of simulated SIR curve vs actual data
 
