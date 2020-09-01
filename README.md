@@ -1,7 +1,17 @@
+
 EDS_COVID-19
 ==============================
 
 Applied Data science on COVID-19 Data
+
+# Preview of simulated SIR curve vs actual data
+
+![](reports/figures/SIR_simulated_curve.PNG)
+
+# Preview of COVID-19 dashboard of all countries
+
+![](reports/figures/COVID-dashboard.PNG)
+
 
 Project Organization
 ------------
